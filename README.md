@@ -1,6 +1,7 @@
 Using superfamous <a href="https://github.com/viesturz/tapchanger">TapChanger</a>  and <a href="https://github.com/viesturz/klipper-toolchanger">klipper-toolchanger</a> from  <a href="https://github.com/viesturz">Viesturz</a>
 
-Using magnets and dowels to hold tool on dock, auto-align after pickup and drop off. Atm only supports CPAP frontface. SB front face will be odne shortly.
+Using magnets and dowels to hold tool on dock, auto-align after pickup and drop off.
+Iam runnning this system for several weeks without issues.
 
 Dowels M3X20(2pcs/toolhead)
 Magnets 10X10X5mm (2pcs/toolhead)
